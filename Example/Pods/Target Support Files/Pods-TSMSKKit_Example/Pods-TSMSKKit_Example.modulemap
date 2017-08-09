@@ -1,0 +1,6 @@
+framework module Pods_TSMSKKit_Example {
+  umbrella header "Pods-TSMSKKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

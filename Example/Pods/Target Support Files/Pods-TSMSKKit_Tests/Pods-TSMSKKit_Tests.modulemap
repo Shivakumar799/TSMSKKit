@@ -1,0 +1,6 @@
+framework module Pods_TSMSKKit_Tests {
+  umbrella header "Pods-TSMSKKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
