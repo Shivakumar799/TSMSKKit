@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TSMSKKit_Example' do
+  pod 'TSMSKKit', :path => '../'
+
+  target 'TSMSKKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
