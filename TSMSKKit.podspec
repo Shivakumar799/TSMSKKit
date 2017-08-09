@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-Description TSMSKKit.
+Description  description between the DESC delimiters description between the DESC delimitersTSMSKKit.
                        DESC
 
   s.homepage         = 'https://github.com/Shivakumar799/TSMSKKit.git'
